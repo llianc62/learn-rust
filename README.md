@@ -42,4 +42,4 @@ rustup doc
 
 1. [hello-rust](hello-rust)
 2. [number-guess](number-guess)
-
+3. [variables](variables)
