@@ -1,8 +1,8 @@
-# number guess
+# Rust Variable Declaration
 
 ## Variable
 
-创建一个变量，在Rust声明一个变量是不默认是不可以被修改的。
+创建一个变量，在Rust声明一个变量默认是不可以被修改的。
 ```rust
 let x = 5;
 ```
