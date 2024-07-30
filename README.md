@@ -45,3 +45,7 @@ rustup doc
 2. [number-guess](number-guess)
 3. [variables](variables)
 4. [data-type](data-type)
+5. [functions](functions)
+6. [branches](branches)
+7. [cel2fah](cel2fan)
+
