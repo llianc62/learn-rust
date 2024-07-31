@@ -49,4 +49,5 @@ rustup doc
 6. [branches](branches)
 7. [cel2fah](cel2fan)
 8. [ownership](ownership)
+9. [slice](slice)
 

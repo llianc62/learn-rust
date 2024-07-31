@@ -1,6 +1,15 @@
+/*
+// stack data is copy
+fn main() {
+    let x = 5;
+    let y = x;
+
+    println!("x: {}, y: {}", x, y);
+}
+*/
 
 /*
-// move
+// heap data is move
 fn main() {
     let s1 = String::from("hello");
     let s2 = s1;
@@ -22,7 +31,7 @@ fn main() {
 fn main() {
     let s = String::from("hello");  // s 进入作用域
 
-    takes_ownership();             // s 的值移动到函数里 ...
+    takes_ownership(s);             // s 的值移动到函数里 ...
                                     // ... 所以到这里不再有效
 
     let x = 5;                      // x 进入作用域
@@ -31,6 +40,7 @@ fn main() {
                                     // 但 i32 是 Copy 的，
                                     // 所以在后面可继续使用 x
 
+    println!("{} {}", s, x);
 } // 这里，x 先移出了作用域，然后是 s。但因为 s 的值已被移走，
   // 没有特殊之处
 
