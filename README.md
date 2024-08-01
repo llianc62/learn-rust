@@ -50,4 +50,5 @@ rustup doc
 7. [cel2fah](cel2fan)
 8. [ownership](ownership)
 9. [slice](slice)
+10. [structure](structure)
 
