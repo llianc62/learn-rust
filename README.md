@@ -51,4 +51,5 @@ rustup doc
 8. [ownership](ownership)
 9. [slice](slice)
 10. [structure](structure)
+11. [enumeration](enumeration)
 
