@@ -53,4 +53,5 @@ rustup doc
 10. [structure](structure)
 11. [enumeration](enumeration)
 12. [project-design](project-design)
+13. [collections](collections)
 
