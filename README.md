@@ -55,4 +55,5 @@ rustup doc
 12. [project-design](project-design)
 13. [collections](collections)
 14. [error-handling](error-handling)
+15. [generics](generics)
 
