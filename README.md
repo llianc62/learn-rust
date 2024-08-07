@@ -56,4 +56,5 @@ rustup doc
 13. [collections](collections)
 14. [error-handling](error-handling)
 15. [generics](generics)
+16. [testing](testing)
 
