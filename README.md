@@ -57,4 +57,5 @@ rustup doc
 14. [error-handling](error-handling)
 15. [generics](generics)
 16. [testing](testing)
+17. [minigrep](minigrep)
 
